@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "primeicons/primeicons.css"; /* PrimeIcons for icons */
+@import "primereact/resources/themes/lara-light-indigo/theme.css"; /* Choose your preferred theme */
+@import "primereact/resources/primereact.min.css"; /* PrimeReact core styles */
+
 
 body {
   font-family: Arial, Helvetica, sans-serif;
